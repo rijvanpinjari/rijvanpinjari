@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rijvanpinjari0786@gmail.com**
 
-- ⚡ Fun fact ** "I convert caffeine into code."**
+- ⚡ Fun fact **"I convert caffeine into code."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
