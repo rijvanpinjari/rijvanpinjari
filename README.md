@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/rijvanpinjari/rijvanpinjari/blob/main/GIF/GitHub%20Readme%20Banner.gif)
+![MasterHead](https://github.com/rijvanpinjari/rijvanpinjari/blob/main/GIF/GitHub_Readme_Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Rijvan Pinjari</h1>
 <h3 align="center">Aspiring Software developer from India</h3>
