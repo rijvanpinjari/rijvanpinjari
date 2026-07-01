@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/rijvanpinjari/rijvanpinjari/blob/main/GIF/GitHub_Readme_Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Rijvan Pinjari</h1>
-<h3 align="center">Software developer from India</h3>
+<h3 align="center">Data Analyst | SQL • Python • Power BI • Tableau • Excel</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/rijvanpinjari/rijvanpinjari/blob/main/GIF/Programmer.gif">
 
