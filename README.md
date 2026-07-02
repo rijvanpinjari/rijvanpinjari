@@ -17,26 +17,32 @@
 - ⚡ Fun fact: Someday, I want to work remotely while traveling the world
 
 <h3 align="left">Connect with me:</h3>
-<div align="left">
     
-  <a href="mailto:rijvanpinjari0786@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<p align="left">
+  <a href="mailto:rijvanpinjari0786@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/rijvanpinjari/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://twitter.com/rijvanpinjari" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
-  <!-- <a href="https://www.instagram.com/rijvan_pinjari_007/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a> -->
+  <!--
+  <a href="https://www.instagram.com/rijvan_pinjari_007/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   
-  <!--<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />-->
-</div>
+  <a href="https://discord.com/rijvan_pinjari_007/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a/>
+  -->
+
+</p>
+
 
 ### Technologies I Work With
 
@@ -46,6 +52,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-4285F4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -65,8 +72,8 @@
 
 ### 
 
-<br>
-<!-- <div align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rijvanpinjari&show_icons=true&locale=en&layout=compact" alt="rijvanpinjari" /> </div>
+<!-- <br>
+<div align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rijvanpinjari&show_icons=true&locale=en&layout=compact" alt="rijvanpinjari" /> </div>
 <div align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rijvanpinjari&show_icons=true&locale=en" alt="rijvanpinjari" /> </div> -->
 
 
